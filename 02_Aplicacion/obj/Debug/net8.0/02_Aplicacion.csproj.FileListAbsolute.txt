@@ -1,0 +1,15 @@
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\bin\Debug\net8.0\02_Aplicacion.deps.json
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\bin\Debug\net8.0\02_Aplicacion.dll
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\bin\Debug\net8.0\02_Aplicacion.pdb
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\bin\Debug\net8.0\03_Dominio.dll
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\bin\Debug\net8.0\03_Dominio.pdb
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.csproj.AssemblyReference.cache
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.AssemblyInfoInputs.cache
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.AssemblyInfo.cs
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.csproj.CoreCompileInputs.cache
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplic.437AD7FD.Up2Date
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.dll
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\refint\02_Aplicacion.dll
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.pdb
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\ref\02_Aplicacion.dll

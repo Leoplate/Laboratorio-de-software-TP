@@ -1,0 +1,11 @@
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.AssemblyInfoInputs.cache
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.AssemblyInfo.cs
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.csproj.CoreCompileInputs.cache
+C:\Practica SOLID\01_Presentacion\03_Dominio\bin\Debug\net8.0\03_Dominio.deps.json
+C:\Practica SOLID\01_Presentacion\03_Dominio\bin\Debug\net8.0\03_Dominio.dll
+C:\Practica SOLID\01_Presentacion\03_Dominio\bin\Debug\net8.0\03_Dominio.pdb
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.dll
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\refint\03_Dominio.dll
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.pdb
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\ref\03_Dominio.dll

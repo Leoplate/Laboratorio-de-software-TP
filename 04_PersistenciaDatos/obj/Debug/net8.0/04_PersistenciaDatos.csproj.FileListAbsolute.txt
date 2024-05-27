@@ -1,0 +1,17 @@
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\04_PersistenciaDatos.deps.json
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\04_PersistenciaDatos.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\04_PersistenciaDatos.pdb
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\03_Dominio.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\03_Dominio.pdb
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.csproj.AssemblyReference.cache
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.AssemblyInfoInputs.cache
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.AssemblyInfo.cs
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_Persi.D8B8CB79.Up2Date
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\refint\04_PersistenciaDatos.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.pdb
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\ref\04_PersistenciaDatos.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\Interop.TxAgg.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.csproj.ResolveComReference.cache
