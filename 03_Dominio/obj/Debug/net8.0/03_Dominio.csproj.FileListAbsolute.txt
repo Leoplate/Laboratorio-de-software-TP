@@ -9,3 +9,4 @@ C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.dll
 C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\refint\03_Dominio.dll
 C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.pdb
 C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\ref\03_Dominio.dll
+C:\Practica SOLID\01_Presentacion\03_Dominio\obj\Debug\net8.0\03_Dominio.sourcelink.json

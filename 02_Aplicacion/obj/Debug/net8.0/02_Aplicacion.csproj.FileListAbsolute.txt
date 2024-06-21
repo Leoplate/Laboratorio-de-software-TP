@@ -13,3 +13,4 @@ C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.d
 C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\refint\02_Aplicacion.dll
 C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.pdb
 C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\ref\02_Aplicacion.dll
+C:\Practica SOLID\01_Presentacion\02_Aplicacion\obj\Debug\net8.0\02_Aplicacion.sourcelink.json

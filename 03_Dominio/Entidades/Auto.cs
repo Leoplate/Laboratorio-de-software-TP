@@ -17,7 +17,7 @@ namespace _03_Dominio
         
         public Auto(Guid id, string patente, int capacidad,int precioKM,bool disponible) {
             this.id = new Identificador(id);
-            this.patente = new Patente(patente);
+            this.patente = new Patente(patente.ToUpper());
             this.capacidad = new Capacidad(capacidad);
             this.precioKm = new PrecioKm(precioKM);
             this.disponible = new Disponible(disponible);

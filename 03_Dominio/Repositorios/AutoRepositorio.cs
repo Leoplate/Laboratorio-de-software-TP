@@ -11,6 +11,11 @@ namespace _03_Dominio.Repositorios
         public List<Auto> Listar();
 
         public void Grabar(Auto auto);
+
+        
+        public void Actualizar(Auto auto);
+
+        public void Eliminar(Auto auto);
         
     }
 }

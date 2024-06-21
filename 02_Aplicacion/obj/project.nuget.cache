@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H3ungyv3XuAE9wlITZ8YBCE7r+zflfbxOEY4sWo3vXtUSHI/jEd3bLCDUFMb1IVvGO50vKtugQt6EI4MZH0Hew==",
+  "dgSpecHash": "YlQxUqRTMJB3m8/5pgjVzoFXfSffvynMJtHq081J6NdQVQuV+YbL8JupXjkULcDtpkQoe8vpqgSNACpeeCne1Q==",
   "success": true,
   "projectFilePath": "C:\\Practica SOLID\\01_Presentacion\\02_Aplicacion\\02_Aplicacion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\mongodb.bson\\2.26.0\\mongodb.bson.2.26.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

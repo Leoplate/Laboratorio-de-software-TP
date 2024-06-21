@@ -1,5 +1,6 @@
 ﻿using _03_Dominio;
 using _03_Dominio.Repositorios;
+using System.Runtime.Intrinsics.X86;
 
 namespace _04_PersistenciaDatos
 {
@@ -20,5 +21,22 @@ namespace _04_PersistenciaDatos
         {
             this.BaseAutos.Add(auto);
         }
+
+        public void Actualizar(Auto auto) {
+
+            int indice = BaseAutos.FindIndex(a => a.Patente() == auto.Patente());
+            BaseAutos[indice] = auto;
+
+        }
+
+        public void Eliminar(Auto auto)
+        {
+            int indice = BaseAutos.FindIndex(a => a.Patente() == auto.Patente());
+            BaseAutos.RemoveAt(indice);
+
+            
+        }
+
     }
+
 }

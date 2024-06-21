@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="2.26.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\03_Dominio\03_Dominio.csproj" />
   </ItemGroup>
 

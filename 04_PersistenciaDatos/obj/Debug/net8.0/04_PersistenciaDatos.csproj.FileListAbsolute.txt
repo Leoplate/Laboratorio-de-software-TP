@@ -15,3 +15,6 @@ C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_Persi
 C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\ref\04_PersistenciaDatos.dll
 C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\Interop.TxAgg.dll
 C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.csproj.ResolveComReference.cache
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\obj\Debug\net8.0\04_PersistenciaDatos.sourcelink.json
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\02_Aplicacion.dll
+C:\Practica SOLID\01_Presentacion\04_PersistenciaDatos\bin\Debug\net8.0\02_Aplicacion.pdb

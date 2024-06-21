@@ -126,6 +126,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.26.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -238,6 +244,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Practica SOLID\\01_Presentacion\\02_Aplicacion\\02_Aplicacion.csproj": {
+                "projectPath": "C:\\Practica SOLID\\01_Presentacion\\02_Aplicacion\\02_Aplicacion.csproj"
+              },
               "C:\\Practica SOLID\\01_Presentacion\\03_Dominio\\03_Dominio.csproj": {
                 "projectPath": "C:\\Practica SOLID\\01_Presentacion\\03_Dominio\\03_Dominio.csproj"
               }
@@ -259,6 +268,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.IdentityModel.Protocols": {
+              "target": "Package",
+              "version": "[7.6.1, )"
+            },
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.26.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
