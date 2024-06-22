@@ -12,7 +12,7 @@ using System.Reflection;
 AutoDTO Peugeot206 = new AutoDTO(Guid.NewGuid(), "GSG958", 5, 5000, true);
 AutoDTO Peugeot208 = new AutoDTO(Guid.NewGuid(), "AAA888", 5, 4000, true);
 AutoDTO CitroenC4 = new AutoDTO(Guid.NewGuid(), "AAG789", 5, 4000, false);
-AutoDTO Peugeot408 = new AutoDTO(Guid.NewGuid(), "ABB992", 2, 700000, true);
+AutoDTO Peugeot408 = new AutoDTO(Guid.NewGuid(), "aBB992", 2, 700000, true);
 AutoDTO Peugeot206XT = new AutoDTO(Guid.NewGuid(), "GSG958", 2, 400000, true);
 
 AutoRepositorioMemoria BaseAutos = new AutoRepositorioMemoria();
