@@ -26,11 +26,11 @@ namespace _04_PersistenciaDatos
         public AutoRepositorioMongoDB()
         {
 
+            var connectionStringFinal = ConfigurationManager.ConnectionStrings["CS_AUTOS_MONGO"].ConnectionString.Replace("&amp;","&");
 
-
-            var connectionString = "mongodb+srv://benjamonben:Charito58@cluster0.z3fb91t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+            //var connectionString = "mongodb+srv://benjamonben:Charito58@cluster0.z3fb91t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
             //var client = new MongoClient(ConfigurationManager.ConnectionStrings["CS_AUTOS_MONGO"].ConnectionString);
-            var client = new MongoClient(connectionString);
+            var client = new MongoClient(connectionStringFinal);
             var database = client.GetDatabase("DBAutos");
              _autos = database.GetCollection<AutoAux>("Autos");
         }

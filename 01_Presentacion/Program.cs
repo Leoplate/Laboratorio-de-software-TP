@@ -9,11 +9,11 @@ using System.Reflection;
 
 
 
-AutoDTO Peugeot206 = new AutoDTO(Guid.NewGuid(), "GSG958", 5, 5000, true);
+AutoDTO Peugeot206 = new AutoDTO(Guid.NewGuid(), "GSG958", 5, 4500, true);
 AutoDTO Peugeot208 = new AutoDTO(Guid.NewGuid(), "AAA888", 5, 4000, true);
 AutoDTO CitroenC4 = new AutoDTO(Guid.NewGuid(), "AAG789", 5, 4000, false);
-AutoDTO Peugeot408 = new AutoDTO(Guid.NewGuid(), "aBB992", 2, 700000, true);
-AutoDTO Peugeot206XT = new AutoDTO(Guid.NewGuid(), "GSG958", 2, 400000, true);
+AutoDTO Peugeot408 = new AutoDTO(Guid.NewGuid(), "aBB992", 2, 9000, true);
+AutoDTO Peugeot206XT = new AutoDTO(Guid.NewGuid(), "GSG957", 2, 8500, true);
 
 AutoRepositorioMemoria BaseAutos = new AutoRepositorioMemoria();
 //AutoRepositorioSQL BaseAutosSQL = new AutoRepositorioSQL();
@@ -21,7 +21,7 @@ AutoRepositorioMongoDB BaseAutoMongoDB = new AutoRepositorioMongoDB();
 
 CrearAuto CrearAutosDTO = new CrearAuto(BaseAutos);
 UnitOfWork UOW = new UnitOfWork(BaseAutoMongoDB);
-
+//UnitOfWork UOW = new UnitOfWork(BaseAutosSQL);
 CrearAutosDTO.Ejecutar(Peugeot206);
 CrearAutosDTO.Ejecutar(Peugeot208);
 CrearAutosDTO.Ejecutar(CitroenC4);
